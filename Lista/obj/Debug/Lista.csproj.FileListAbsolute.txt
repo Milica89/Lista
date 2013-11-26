@@ -1,0 +1,7 @@
+c:\users\informd\documents\visual studio 2012\Projects\Lista\Lista\obj\Debug\Lista.csprojResolveAssemblyReference.cache
+c:\users\informd\documents\visual studio 2012\Projects\Lista\Lista\bin\Debug\Lista.exe
+c:\users\informd\documents\visual studio 2012\Projects\Lista\Lista\bin\Debug\Lista.pdb
+c:\users\informd\documents\visual studio 2012\Projects\Lista\Lista\obj\Debug\Lista.exe
+c:\users\informd\documents\visual studio 2012\Projects\Lista\Lista\obj\Debug\Lista.pdb
+D:\Users\Milica\Repo\Lista\obj\Debug\Lista.exe
+D:\Users\Milica\Repo\Lista\obj\Debug\Lista.pdb
